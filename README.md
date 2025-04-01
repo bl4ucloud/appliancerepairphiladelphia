@@ -1,2 +1,0 @@
-# appliancerepairphiladelphia
-My awesome repository
